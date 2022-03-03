@@ -1,0 +1,129 @@
+body {
+    font-family: 'Roboto', sans-serif !important; 
+}
+/* ------------------------------ NAVBAR ------------------------- */
+
+.logo {
+    position: relative;
+    width: 50%;
+    left: 25%;
+}
+
+
+/* ----------------------------- NAVBAR 2 ------------------------- */
+.secimler {
+    position: relative;
+    width: 90%;
+    left: 5%;
+}
+/* .secenekler {
+    display: ;
+} */
+.secim {
+    display: inline;
+    position: relative;
+    list-style: none;
+}
+.a {
+    text-align: center;
+    text-decoration: none;
+    color: black;
+    padding: 1% 1.5%;
+    font-size: 16px;
+    font-weight: bolder;
+}
+.a:hover {
+    background-color: red;
+    color: white;
+    
+}
+/* -------------------------- KAYAN YAZI -------------------------- */
+.body {
+    position: relative;
+    width: 80%;
+    padding-top: 1%;
+    text-align: center;
+}
+.kayan {
+    font-size: 25px;
+    font-weight: bolder;
+    color: red;
+}
+/* --------------------------- CAROUSEL -------------------------- */
+.resim {
+    padding-bottom: 3.61%;
+}
+/* --------------------------- CARD YAPI 1 -------------------------- */
+.card-group {
+    padding-top: 3%;
+}
+.kart1 {
+    padding-right: 1%;
+}
+.kart2 {
+    padding-right: 1%;
+    padding-left: 1%;
+}
+.kart3 {
+    padding-left: 1%;
+}
+/* ----------------------------- ARA1 ----------------------------- */
+.ara1{
+  position: relative;
+  right: 6%;
+  text-align:center;
+  padding-top: 4%;
+}
+/* --------------------------- CARD YAPI 2 ------------------------- */
+/* ----------------------------- ARA2 ----------------------------- */
+.ara2 {
+  position: relative;
+  right: 17%;
+  text-align:center;
+  padding-top: 4%;
+}
+/* --------------------------- CARD YAPI 3 ------------------------- */
+/* ----------------------------- ARA3 ----------------------------- */
+.ara3 {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  text-align:center;
+  padding-top: 2%;
+}
+/* ------------------------------- SON ---------------------------- */
+.yan-yana {
+    display: inline;
+  }
+  .ulasmak {
+    font-family: "Poppins", Sans-serif;
+    font-size: 18px;
+    font-weight: normal;
+  }
+  .ekstra {
+    position: relative;
+  }
+  .av2 {
+    color: aliceblue;
+    padding: 7px 30px;
+    margin: 10px;
+    text-decoration: none;
+    background: linear-gradient(45deg, rgb(104, 201, 59) 25%, rgb(15, 75, 15));
+  }
+  .av2:hover:hover{
+    color :aliceblue;
+  }
+  .logo22{
+    height: 40px;
+    width: auto;
+  }
+  .son {
+    position: relative;
+    align-items: center;
+  }
+  .copy {
+    position: absolute;
+    right: 10%;
+    top: 4%;
+    text-align: end;
+  }
